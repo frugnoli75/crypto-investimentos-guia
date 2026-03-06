@@ -53,26 +53,6 @@ O material aborda os seguintes tópicos:
 
 ---
 
-# 📚 Conteúdos Abordados
-
-## Criptomoedas
-
-Criptomoedas são ativos digitais protegidos por criptografia que permitem realizar transações online de forma segura e descentralizada.
-
-## Blockchain
-
-A blockchain funciona como um **livro-razão digital público**, registrando transações em blocos interligados e garantindo transparência e segurança.
-
-## Wallets
-
-Carteiras digitais utilizadas para armazenar e gerenciar chaves privadas que dão acesso às criptomoedas registradas na blockchain.
-
-## Exchanges
-
-Plataformas onde usuários podem comprar, vender e negociar criptomoedas.
-
----
-
 # ⚠️ Riscos e Vantagens
 
 ### Vantagens
