@@ -1,27 +1,114 @@
-# Miniguia – Investimentos em Criptomoedas para Iniciantes
+# 📘 Miniguia de Estudo: Investimentos em Criptomoedas para Iniciantes
 
-Este projeto foi desenvolvido como parte de um desafio de aprendizagem utilizando o NotebookLM.
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
+![Tema](https://img.shields.io/badge/tema-criptomoedas-orange)
+![Ferramenta](https://img.shields.io/badge/IA-NotebookLM-green)
+![Licença](https://img.shields.io/badge/licença-educacional-lightgrey)
 
-O objetivo foi reunir fontes abertas sobre criptomoedas e utilizar IA para gerar resumos, perguntas estratégicas e um guia de estudo para iniciantes.
+Este repositório contém um **miniguia de estudo sobre investimentos em criptomoedas para iniciantes**, desenvolvido como parte de uma atividade de aprendizagem utilizando inteligência artificial.
 
-## Objetivos de Estudo
+O projeto utiliza o **NotebookLM** para analisar fontes abertas e gerar resumos, perguntas estratégicas e glossários.
 
-- Compreender o que são criptomoedas
-- Entender o funcionamento da blockchain
-- Identificar riscos e vantagens dos investimentos em cripto
-- Explorar estratégias básicas para iniciantes
+---
 
-## Conteúdo do Repositório
+# 🎯 Objetivos do Projeto
 
-- fontes.md → lista das fontes utilizadas
-- prompts.md → prompts utilizados no NotebookLM
-- resumo-estudo.md → miniguia de estudo gerado
+Este estudo tem como objetivo:
 
-## Ferramentas Utilizadas
+- Compreender o funcionamento das **criptomoedas**
+- Entender o conceito de **blockchain**
+- Identificar **riscos e oportunidades de investimento**
+- Explorar conceitos básicos para **investidores iniciantes**
+- Utilizar **IA como ferramenta de aprendizagem ativa**
+
+---
+
+# 🧠 Metodologia
+
+O projeto foi desenvolvido seguindo estas etapas:
+
+1. Seleção de **3 a 5 fontes abertas** sobre criptomoedas
+2. Importação das fontes no **NotebookLM**
+3. Criação de **perguntas estratégicas**
+4. Teste de diferentes **prompts de IA**
+5. Geração de **resumos estruturados**
+6. Criação de **glossário de termos**
+7. Organização do conteúdo em um **miniguia de estudo**
+
+---
+
+# 📂 Estrutura do Repositório
+
+| Arquivo | Descrição |
+|------|------|
+| README.md | Apresentação do projeto |
+| fontes.md | Lista de fontes utilizadas |
+| prompts.md | Prompts testados no NotebookLM |
+| resumo-estudo.md | Guia de estudo gerado |
+
+---
+
+# 📚 Fontes Utilizadas
+
+As seguintes fontes foram utilizadas para gerar o material:
+
+- Binance Academy — Introdução às criptomoedas  
+- Binance Academy — O que é blockchain  
+- Investopedia — Cryptocurrency  
+- Banco Central do Brasil — Criptoativos
+
+Essas fontes fornecem explicações conceituais e educacionais sobre o funcionamento do mercado de criptomoedas.
+
+---
+
+# 📖 Conteúdo do Guia de Estudo
+
+O guia inclui:
+
+- Introdução às criptomoedas  
+- Funcionamento da **blockchain**  
+- Explicação de conceitos importantes  
+- Principais criptomoedas do mercado  
+- Riscos e vantagens do investimento  
+- Glossário de termos financeiros e tecnológicos  
+
+---
+
+# 🧾 Glossário (Exemplo)
+
+| Termo | Definição |
+|------|------|
+| Blockchain | Registro digital descentralizado de transações |
+| Criptomoeda | Ativo digital baseado em criptografia |
+| Exchange | Plataforma para compra e venda de criptomoedas |
+| Wallet | Carteira digital usada para armazenar criptomoedas |
+| Volatilidade | Variação intensa no preço de um ativo |
+
+---
+
+# 🤖 Prompts Utilizados
+
+Alguns prompts utilizados no NotebookLM:
+
+
+---
+
+# 🚀 Tecnologias Utilizadas
 
 - NotebookLM
 - GitHub
+- Markdown
 
-## Tema
+---
 
-Investimentos em criptomoedas para iniciantes.
+# 📌 Conclusão
+
+O uso de ferramentas de inteligência artificial permite organizar e sintetizar conteúdos de forma eficiente, auxiliando no aprendizado e na análise crítica de diferentes fontes de informação.
+
+Neste projeto, o NotebookLM foi utilizado como suporte para transformar diversas fontes em um **guia estruturado de estudo sobre criptomoedas**.
+
+---
+
+# 👤 Autor
+
+Projeto desenvolvido para fins educacionais.
