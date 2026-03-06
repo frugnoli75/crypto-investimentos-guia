@@ -112,9 +112,9 @@ Isso demonstra como a IA pode atuar como **ferramenta de apoio ao aprendizado e 
 
 As seguintes fontes foram utilizadas para gerar o material:
 
-- Binance Academy — Introdução às criptomoedas  
-- Binance Academy — Learn and Earn  
-- Investopedia — Cryptocurrency  
+- Binance Academy — What is Cryptocurrency?  
+- Binance Academy — What is Blockchain and How Does It Work?  
+- Investopedia — Cryptocurrency Explained With Pros and Cons for Investment.  
 
 Essas fontes fornecem explicações conceituais e educacionais sobre o funcionamento do mercado de criptomoedas.
 
