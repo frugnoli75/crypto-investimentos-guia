@@ -56,6 +56,8 @@ Plataformas usadas para **comprar, vender ou trocar criptomoedas**, funcionando 
 
 ## 💰 5. Principais Criptomoedas
 
+Algumas criptomoedas possuem grande relevância no mercado devido à sua capitalização e utilidade tecnológica.
+
 | Criptomoeda | Característica |
 |-------------|---------------|
 | Bitcoin (BTC) | Primeira criptomoeda criada em 2009. Considerada reserva de valor ("ouro digital") com limite de **21 milhões de moedas** |
