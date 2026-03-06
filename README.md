@@ -133,18 +133,6 @@ O guia inclui:
 
 ---
 
-# 🧾 Glossário (Exemplo)
-
-| Termo | Definição |
-|------|------|
-| Blockchain | Registro digital descentralizado de transações |
-| Criptomoeda | Ativo digital baseado em criptografia |
-| Exchange | Plataforma para compra e venda de criptomoedas |
-| Wallet | Carteira digital usada para armazenar criptomoedas |
-| Volatilidade | Variação intensa no preço de um ativo |
-
----
-
 # 🤖 Prompts Utilizados
 
 Alguns prompts utilizados no NotebookLM:
