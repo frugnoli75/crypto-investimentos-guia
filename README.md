@@ -133,7 +133,7 @@ Isso demonstra como a IA pode atuar como **ferramenta de apoio ao aprendizado e 
 As seguintes fontes foram utilizadas para gerar o material:
 
 - Binance Academy — Introdução às criptomoedas  
-- Binance Academy — O que é blockchain  
+- Binance Academy — Learn and Earn  
 - Investopedia — Cryptocurrency  
 
 Essas fontes fornecem explicações conceituais e educacionais sobre o funcionamento do mercado de criptomoedas.
@@ -203,5 +203,7 @@ Neste projeto, o NotebookLM foi utilizado como suporte para transformar diversas
 ---
 
 # 👤 Autor
+
+Marcello Frugnoli
 
 Projeto desenvolvido para fins educacionais.
