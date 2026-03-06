@@ -1,10 +1,10 @@
 # Fontes Utilizadas
 
-1. **Binance Academy – Introdução às criptomoedas**  
-    https://academy.binance.com/pt/articles/what-is-cryptocurrency
+1. **Binance Academy – What is Cryptocurrency**  
+https://academy.binance.com/en/articles/what-is-cryptocurrency
 
-2. **Binance Academy - Learn and Earn**  
-    https://www.binance.com/pt-BR/academy/learn-and-earn
+2. **Binance Academy – What is Blockchain and How Does It Work**  
+https://www.binance.com/en/academy/articles/what-is-blockchain-and-how-does-it-work
 
-3. **Cryptocurrency Explained With Pros and Cons for Investment**  
-    https://www.investopedia.com/terms/c/cryptocurrency.asp
+3. **Investopedia – Cryptocurrency Explained With Pros and Cons for Investment**  
+https://www.investopedia.com/terms/c/cryptocurrency.asp
