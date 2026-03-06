@@ -1,10 +1,15 @@
-# Fontes Utilizadas
+# 📚 Fontes Utilizadas
 
-1. **Binance Academy – What is Cryptocurrency**  
-https://academy.binance.com/en/articles/what-is-cryptocurrency
+As seguintes fontes abertas foram utilizadas para compor o material de estudo sobre criptomoedas.
 
-2. **Binance Academy – What is Blockchain and How Does It Work**  
-https://www.binance.com/en/academy/articles/what-is-blockchain-and-how-does-it-work
+1. BINANCE ACADEMY. *What is Cryptocurrency?*  
+Disponível em: https://academy.binance.com/en/articles/what-is-cryptocurrency  
+Acesso em: 2026.
 
-3. **Investopedia – Cryptocurrency Explained With Pros and Cons for Investment**  
-https://www.investopedia.com/terms/c/cryptocurrency.asp
+2. BINANCE ACADEMY. *What is Blockchain and How Does It Work?*  
+Disponível em: https://www.binance.com/en/academy/articles/what-is-blockchain-and-how-does-it-work  
+Acesso em: 2026.
+
+3. INVESTOPEDIA. *Cryptocurrency Explained With Pros and Cons for Investment.*  
+Disponível em: https://www.investopedia.com/terms/c/cryptocurrency.asp  
+Acesso em: 2026.
