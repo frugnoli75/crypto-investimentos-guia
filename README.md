@@ -1,39 +1,119 @@
 # 📘 Miniguia de Estudo: Investimentos em Criptomoedas para Iniciantes
 
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
-![Tema](https://img.shields.io/badge/tema-criptomoedas-orange)
-![Ferramenta](https://img.shields.io/badge/IA-NotebookLM-green)
-![Licença](https://img.shields.io/badge/licença-educacional-lightgrey)
+![Tema](https://img.shields.io/badge/Tema-Criptomoedas-orange)
+![IA](https://img.shields.io/badge/Ferramenta-NotebookLM-blue)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
 
-Este repositório contém um **miniguia de estudo sobre investimentos em criptomoedas para iniciantes**, desenvolvido como parte de uma atividade de aprendizagem utilizando inteligência artificial.
+Este repositório apresenta um **miniguia de estudo sobre investimentos em criptomoedas para iniciantes**, desenvolvido com apoio de inteligência artificial utilizando o NotebookLM.
 
-O projeto utiliza o **NotebookLM** para analisar fontes abertas e gerar resumos, perguntas estratégicas e glossários.
+O projeto tem como objetivo reunir fontes confiáveis, gerar resumos estruturados, criar perguntas estratégicas e organizar conceitos essenciais sobre criptomoedas.
 
 ---
 
-# 🎯 Objetivos do Projeto
+# 🎯 Objetivo do Projeto
 
-Este estudo tem como objetivo:
+O objetivo deste projeto é demonstrar como ferramentas de **IA generativa podem auxiliar no processo de aprendizagem**, ajudando a:
 
-- Compreender o funcionamento das **criptomoedas**
-- Entender o conceito de **blockchain**
-- Identificar **riscos e oportunidades de investimento**
-- Explorar conceitos básicos para **investidores iniciantes**
-- Utilizar **IA como ferramenta de aprendizagem ativa**
+- Organizar conhecimento a partir de múltiplas fontes
+- Criar guias de estudo estruturados
+- Gerar glossários e perguntas de revisão
+- Facilitar o entendimento de temas complexos como criptomoedas e blockchain
 
 ---
 
 # 🧠 Metodologia
 
-O projeto foi desenvolvido seguindo estas etapas:
+O processo de criação deste guia seguiu as seguintes etapas:
 
-1. Seleção de **3 a 5 fontes abertas** sobre criptomoedas
+1. Seleção de **fontes abertas sobre criptomoedas**
 2. Importação das fontes no **NotebookLM**
 3. Criação de **perguntas estratégicas**
 4. Teste de diferentes **prompts de IA**
 5. Geração de **resumos estruturados**
-6. Criação de **glossário de termos**
+6. Criação de um **glossário de termos**
 7. Organização do conteúdo em um **miniguia de estudo**
+
+---
+
+# 📘 Guia de Estudo
+
+O guia completo com todos os conceitos está disponível em:
+
+👉 **[Acessar Guia de Estudo](resumo-estudo.md)**
+
+O material aborda os seguintes tópicos:
+
+- Introdução às criptomoedas
+- Tecnologia blockchain
+- Funcionamento de wallets e exchanges
+- Principais criptomoedas do mercado
+- Riscos e vantagens do investimento
+- Glossário de termos técnicos
+- Prompts reutilizáveis para estudo com IA
+
+---
+
+# 📚 Conteúdos Abordados
+
+## Criptomoedas
+
+Criptomoedas são ativos digitais protegidos por criptografia que permitem realizar transações online de forma segura e descentralizada.
+
+## Blockchain
+
+A blockchain funciona como um **livro-razão digital público**, registrando transações em blocos interligados e garantindo transparência e segurança.
+
+## Wallets
+
+Carteiras digitais utilizadas para armazenar e gerenciar chaves privadas que dão acesso às criptomoedas registradas na blockchain.
+
+## Exchanges
+
+Plataformas onde usuários podem comprar, vender e negociar criptomoedas.
+
+---
+
+# ⚠️ Riscos e Vantagens
+
+### Vantagens
+
+- Transações rápidas
+- Operação global
+- Descentralização financeira
+- Potencial de valorização
+
+### Riscos
+
+- Alta volatilidade
+- Falta de proteção governamental
+- Possibilidade de fraudes ou hacks
+- Transações irreversíveis
+
+---
+
+# 📖 Glossário (Exemplo)
+
+| Termo | Definição |
+|------|------|
+| Blockchain | Registro digital descentralizado de transações |
+| Wallet | Carteira digital para armazenar chaves privadas |
+| Exchange | Plataforma de compra e venda de criptomoedas |
+| Proof of Work | Mecanismo de consenso baseado em mineração |
+| Proof of Stake | Mecanismo de validação baseado em staking |
+
+---
+
+# 🤖 Uso de Inteligência Artificial
+
+Durante o desenvolvimento deste projeto foram utilizados **prompts estruturados** para gerar:
+
+- Resumos conceituais
+- Perguntas estratégicas
+- Explicações didáticas
+- Glossário de termos
+- Sugestões de estudo
+
+Isso demonstra como a IA pode atuar como **ferramenta de apoio ao aprendizado e organização do conhecimento**.
 
 ---
 
@@ -55,7 +135,6 @@ As seguintes fontes foram utilizadas para gerar o material:
 - Binance Academy — Introdução às criptomoedas  
 - Binance Academy — O que é blockchain  
 - Investopedia — Cryptocurrency  
-- Banco Central do Brasil — Criptoativos
 
 Essas fontes fornecem explicações conceituais e educacionais sobre o funcionamento do mercado de criptomoedas.
 
